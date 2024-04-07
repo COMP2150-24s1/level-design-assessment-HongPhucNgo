@@ -4,11 +4,6 @@
 ### Name: [Hong Phuc Ngo]
 ### Student number: [47479728] 
 
-
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
 ```
 
 Example:
@@ -23,7 +18,7 @@ This level design report is meant to explain how my level design promote the cor
 ### 1.1. Discovery:
        Through the first section of my level, the players learn the basics of the game from simple platforming to attacking/evading enemies and getting comfortable with traversing the game as a whole via being introduced to mechanics gradually as opposed to being information dumped at the start of the game. By designing my level with a steady introduction to the game’s mechanics, starting from simple platforming and then gradually adding more options to the player’s arsenal, I avoid overwhelming the player with information from the start and emphasize on creating a sense of mastery and progression which also contributes to retaining player engagement.
        
-DocImages: Section 1 ig
+DocImages: Section 1 ig (DocImages/Section 1 ig.png)
        
        When players navigate through the first section of the level, they are not only introduced to the core mechanics of the game but also given obstacles to practice on and build confidence in their own abilities. This gradual teaching method reward players with a sense of accomplishment as they overcome challenges and further develop their proficiency.
        Additionally, by scattering the mechanics throughout the level and having their first appearance to be where they are relevant for the game’s progression. The combination of gameplay and learning mechanics will help players remain actively engaged and want to continue playing.
